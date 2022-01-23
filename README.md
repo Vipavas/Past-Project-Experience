@@ -1,5 +1,5 @@
 # Past-Project-Experience
-This repository will include the past projects, some of them are the group projects that I have done with my team.
+This repository will include the past projects.
 
 1. Data Mining Project\
 The objective is to compare the performance of these three methods, kNN, Naïve Bayes and classification trees on the orange juice data. We will try to predict the class of the new data and observe the performances by using techniques that we have learned in data mining class.\
@@ -9,7 +9,7 @@ Data Source: https://vincentarelbundock.github.io/Rdatasets/doc/ISLR/OJ.html
 This project is aiming to find which group of age may have a higher likelihood of heart attack using the ANOVA test and identify the new record of patients by using the logistic regression model.\
 Data Source: https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
 
-3. Time Series Project
+3. Time Series Project\
 This project we try to find the best model for implementing to our time series data by using SARIMA model.\
 Data Source: https://fred.stlouisfed.org/series/IPG2211A2N
 
